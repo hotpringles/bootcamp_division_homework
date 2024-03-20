@@ -7,25 +7,6 @@
 
 int main() {
     // 이곳에 코드를 작성해주세요!
-    char ary[5];
-    ary[0] = 'a';
-    ary[1] = 'e';
-    ary[2] = 'i';
-    ary[3] = 'o';
-    ary[4] = 'u';
 
-    char input, result;
-    scanf("%c", &input);
-
-    for (int i = 0; i < sizeof(ary) / sizeof(char); i++) {
-    	if (input == ary[i]) {
-	    	result = 'O';
-		break;
-	}
-	    else
-		    result = 'X';
-    }
-
-    printf("%c\n", result);
     return 0;
 }
