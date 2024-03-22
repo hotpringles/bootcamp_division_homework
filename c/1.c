@@ -5,8 +5,6 @@
 
 #include <stdio.h>
 
-int reverse(int);
-
 int main() {
 	int num;
 

@@ -7,6 +7,7 @@
 
 int main() {
 	// 이곳에 코드를 작성해주세요!
+	
 	char ary[5];
 	ary[0] = 'a';
 	ary[1] = 'e';
@@ -27,6 +28,6 @@ int main() {
 	}
 
 	printf("%c\n", result);
-	
+
 	return 0;
 }

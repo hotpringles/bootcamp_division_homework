@@ -7,6 +7,8 @@
 
 int main() {
 	while (1) {
+		// 이곳에 코드를 작성해주세요!
+		
 		int num;
 
 		scanf("%d", &num);

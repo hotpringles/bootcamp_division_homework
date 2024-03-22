@@ -8,6 +8,7 @@
 
 int main() {
 	// 이곳에 코드를 작성해주세요!
+	
 
 	int num;
 	scanf("%d", &num);
@@ -23,5 +24,5 @@ int main() {
 	printf("%d\n", result2);
 
 	return 0;
-	
+
 }
