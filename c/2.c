@@ -1,7 +1,7 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
+	// 이곳에 코드를 작성해주세요!
 	int age;
 
 	scanf("%d", &age);
@@ -12,4 +12,6 @@ int main() {
 	else {
 		printf("BOARD\n");
 	}
+
+	return 0;
 }
